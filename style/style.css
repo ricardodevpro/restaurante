@@ -30,6 +30,7 @@ header {
     align-items: center;
     justify-content: space-between;
     margin-bottom: 200px;
+    border-bottom: 1px solid white;
 }
 
 .logo {
